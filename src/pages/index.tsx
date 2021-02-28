@@ -12,7 +12,6 @@ export default function Home() {
       <Head>
         <title>Home | move.it</title>
       </Head>
-
       <ExperienceBar />
       <section>
         <div>
