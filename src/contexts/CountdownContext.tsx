@@ -21,7 +21,7 @@ interface CountdownProviderProps {
 }
 
 let countdownTimeOut: NodeJS.Timeout;
-const TIMER_POMODORO = 0.05;
+const TIMER_POMODORO = 25;
 
 export const CountdownContext = createContext({} as CountdownContextData);
 
